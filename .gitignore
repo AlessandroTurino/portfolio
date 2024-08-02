@@ -1,0 +1,22 @@
+# Sistema operativo Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor di codice VSCode
+.vscode/
+
+# Node.js
+node_modules/
+
+# SASS
+.sass-cache/
+
+# File di log
+*.log
+
+# File temporanei e di backup
+*.tmp
+*.temp
+*.swp
+*~
